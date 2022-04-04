@@ -6,4 +6,4 @@ We chose to use a loader to create a better UX since the API call delays the flo
 
 ## View it live
 
-https://admiring-ramanujan-4a7c71.netlify.app/
+https://labyrinth-project.netlify.app/
